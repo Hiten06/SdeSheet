@@ -1,3 +1,8 @@
+/*
+   In this we can take   three pointer i=0,j=0,k= arr.length-1   if ele is 0 swap ele at arr i,j increment i ,j 
+   and if ele is 1 increment i and ele is 2 swap ele at i & k decrement k  loop i untill  k 
+*/
+
 public class Solution 
 {
     public static void sort012(int[] arr)

@@ -5,7 +5,7 @@
     then we store the first start and end points and then loop the merging intervals arrays 
     if we got our end points is less than the second interval start points then we merge 
     if not then we put the array as it is and iterate over second merging interval 
-
+    TC O(interval size) and SC O(1) because we r returning the list so output size is not consider in Space complexity
 */
 
 
